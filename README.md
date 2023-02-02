@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Simple & Scalable E-Comerce Solutions**
 
-- 🌱 I’m currently learning **Svelte & Rust**
+- 🌱 I’m currently learning **Svelte/kit & Rust**
 
 - 📫 How to reach me **victor@victorfrunza.ca**
 
