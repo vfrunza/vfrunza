@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on simple and scalable e-commerce solutions<br>🌱 I’m currently learning deno and rust<br>💬 Ask me about svelte, tailwind, or anything web dev<br>⚡ Currently travelling across BC as my partner finishes school
+🔭 I’m currently working on simple and scalable e-commerce solutions<br>🌱 I’m currently learning deno and rust<br>💬 Ask me about svelte, tailwind, or anything web dev<br>⚡ Currently travelling across BC as my partner finishes her medical degree
 
 
 ## 🌐 Socials:
