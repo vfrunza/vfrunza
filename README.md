@@ -15,7 +15,7 @@
 
 <p align="left">
   ✨ I've been creating bugs since 2014<br>
-  🇨🇦 I'm based in British Columbia, Canada<br>
+  🇨🇦 I'm based in Alberta, Canada<br>
   🛠️ I'm currently building e-commerce projects using MedusaJS & Svelte/kit<br>
   📚 I'm currently learning Rust, Deno, & Svelte<br>
   🎯 Interested in software architecture, scalability, and how people make software together<br>
