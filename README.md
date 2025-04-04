@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">My name is Victor Frunza and I'm primarily a fullstack/web developer from British Columbia, Canada. </p>
+<p align="left">My name is Victor Frunza and I'm primarily a fullstack web developer from Alberta, Canada. </p>
 
 ![Mastodon Follow](https://img.shields.io/mastodon/follow/110891330201978853?domain=https%3A%2F%2Fcosocial.ca)
 
@@ -16,10 +16,10 @@
 <p align="left">
   ✨ I've been creating bugs since 2014<br>
   🇨🇦 I'm based in Alberta, Canada<br>
-  🛠️ I'm currently building e-commerce projects using MedusaJS & Svelte/kit<br>
-  📚 I'm currently learning Rust, Deno, & Svelte<br>
+  🛠️ I'm currently building marketing and process applications in Go<br>
+  📚 I'm currently using Go & Svelte/kit. Learning Rust.<br>
   🎯 Interested in software architecture, scalability, and how people make software together<br>
-  🎲 I like movies, books (primarily fantasy, sci-fi, and non-fiction), skiing, hiking, and spending time with my partner & daughter</p>
+  🎲 I like movies, books (primarily fantasy, sci-fi, and non-fiction), skiing, hiking, and spending time with my partner & daughters</p>
 
 ###
 
